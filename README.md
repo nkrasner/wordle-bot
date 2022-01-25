@@ -24,4 +24,4 @@ If you want to test out the scoring function, see the number of letter occurence
 2. Type "ccccc". This will tell the bot that it has found a solution and it will drop you into its python session.
 3. Run any python code you like using the available variables and functions.
 
-![An image of some experimentation in the python session](https://imgur.com/a/7BKD4Bx)
+![An image of some experimentation in the python session](https://imgur.com/4yCwJjM)
