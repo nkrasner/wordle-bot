@@ -16,12 +16,12 @@ To solve wordles:
 
 3. Repeat until solved.
 
-![An image of a solved wordle board](https://imgur.com/a/5ykB3hh)
-![An image of the bot's running process](https://imgur.com/a/ML7Vhfb)
+![An image of a solved wordle board](https://i.imgur.com/xKcib9G.png)
+![An image of the bot's running process](https://i.imgur.com/kodd0gV.png)
 
 If you want to test out the scoring function, see the number of letter occurences, etc.:
 1. Run wordlebot.py with the interactive flag "-i" and the desired dictionary as an argument (see above).
 2. Type "ccccc". This will tell the bot that it has found a solution and it will drop you into its python session.
 3. Run any python code you like using the available variables and functions.
 
-![An image of some experimentation in the python session](https://imgur.com/4yCwJjM)
+![An image of some experimentation in the python session](https://i.imgur.com/4yCwJjM.png)
